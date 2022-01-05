@@ -3,7 +3,7 @@
 
 Welcome to this repo.
 
-view Now ? [https://github.com/eligrey/FileSaver.js/](https://github.com/tsayen/dom-to-image)
+view Now ? [https://edit-photo.netlify.app/](https://edit-photo.netlify.app/)
 
 This is a repository which for photo editor using **CSS filter** and **vanilla Javascript**.
 
